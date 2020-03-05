@@ -13,7 +13,6 @@ import java.util.ArrayList;
 import static com.arthenica.mobileffmpeg.Config.RETURN_CODE_CANCEL;
 import static com.arthenica.mobileffmpeg.Config.RETURN_CODE_SUCCESS;
 
-
 public class Main2Activity extends AppCompatActivity {
 
     int count = Variables.getCount();
